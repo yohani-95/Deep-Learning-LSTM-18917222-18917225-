@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Putri Mentari Endaswari (18917222)
+# # Putri Mentari Endraswari (18917222)
 # # Yohani Setiya Rafika Nur (18917225)
 
 # In[1]:
